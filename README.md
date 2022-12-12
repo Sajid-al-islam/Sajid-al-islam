@@ -27,7 +27,6 @@ Welcome to my profile! I'm a Full-Stack web developer from Bangladesh. Thanks fo
   <a href="https://www.facebook.com/Sajid.Assassin/" target="_blank"><img src="https://img.shields.io/badge/-facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/muhammad-sajidul-islam-355945154/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Sajid-al-islam/Sajid-al-islam/blob/main/github-user-contribution.svg)
  
 </div>
 
