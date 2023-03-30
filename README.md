@@ -32,3 +32,5 @@ Welcome to my profile! I'm a Full-Stack web developer from Bangladesh. Thanks fo
 
 <br />
 ### Show some ❤️ by starring some of the repositories!
+
+![Snake animation](https://github.com/Sajid-al-islam/Sajid-al-islam/blob/output/github-contribution-grid-snake.svg)
