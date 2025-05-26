@@ -8,12 +8,12 @@ Welcome to my profile! I'm a Full-Stack web developer from Bangladesh. Thanks fo
     <figure><embed src="https://wakatime.com/share/@8c212965-ff46-4a88-a097-7c8a1718035a/e499dd8c-9339-4209-9caa-90044529f1cf.svg"></embed></figure>
 </div>
 <div style="display: inline_block"><br>
-      <img align="center" alt="Docker" height="50" width="50" src="https://img.icons8.com/color/search/docker">
+    <img align="center" alt="PHP" height="50" width="50"  src="https://img.icons8.com/?size=100&id=f0R4xVI4Sc8O&format=png&color=000000">
+    <img align="center" alt="Laravel" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/220px-Laravel.svg.png">
+    <img align="center" alt="MY SQL" height="50" width="50" src="https://c1.klipartz.com/pngpicture/64/828/sticker-png-mysql-logo-organization-database-database-management-system-theory-implementation-line-circle-thumbnail.png">
+    <img align="center" alt="Docker" height="50" width="50" src="https://img.icons8.com/color/search/docker">
     <img align="center" alt="Js" height="50" width="50" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000">
     <img align="center" alt="Vue js" height="50" width="50"  src="https://img.icons8.com/color/search/vue-js">
-    <img align="center" alt="PHP" height="50" width="50"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1200px-Webysther_20160423_-_Elephpant.svg.png">
-    <img align="center" alt="MY SQL" height="50" width="50" src="https://c1.klipartz.com/pngpicture/64/828/sticker-png-mysql-logo-organization-database-database-management-system-theory-implementation-line-circle-thumbnail.png">
-    <img align="center" alt="Laravel" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/220px-Laravel.svg.png">
     <img align="center" alt="Rest API" height="50" width="50" src="https://nextbigtechnology.com/wp-content/uploads/2018/10/restapi.jpg">
     <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
