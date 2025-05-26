@@ -9,7 +9,7 @@ Welcome to my profile! I'm a Full-Stack web developer from Bangladesh. Thanks fo
 </div>
 <div style="display: inline_block"><br>
       <img align="center" alt="Docker" height="50" width="50" src="https://img.icons8.com/color/search/docker">
-    <img align="center" alt="Js" height="50" width="50" src="https://media.bitdegree.org/storage/media/images/2018/12/node-js-interview-questions-logo-2-266x300.png">
+    <img align="center" alt="Js" height="50" width="50" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000">
     <img align="center" alt="Vue js" height="50" width="50"  src="https://img.icons8.com/color/search/vue-js">
     <img align="center" alt="PHP" height="50" width="50"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1200px-Webysther_20160423_-_Elephpant.svg.png">
     <img align="center" alt="MY SQL" height="50" width="50" src="https://c1.klipartz.com/pngpicture/64/828/sticker-png-mysql-logo-organization-database-database-management-system-theory-implementation-line-circle-thumbnail.png">
