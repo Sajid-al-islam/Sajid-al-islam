@@ -1,5 +1,5 @@
 # Hi I'm Muhammad Sajidul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Welcome to my profile! I'm a Full-Stack web developer from Bangladesh. Thanks for visiting and I'd love to connect!
+Welcome to my profile! I'm a Full-Stack Software engineer from Bangladesh. Thanks for visiting and I'd love to connect!
 
 <div>
   <a href="https://github.com/Sajid-al-islam">
