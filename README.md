@@ -9,7 +9,7 @@ Welcome to my profile! I'm a Full-Stack Software engineer from Bangladesh. Thank
 </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="PHP" height="50" width="50"  src="https://img.icons8.com/?size=100&id=f0R4xVI4Sc8O&format=png&color=000000">
-    <img align="center" alt="Laravel" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/220px-Laravel.svg.png">
+    <img align="center" alt="Laravel" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg">
     <img align="center" alt="MY SQL" height="50" width="50" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000">
     <img align="center" alt="Docker" height="50" width="50" src="https://img.icons8.com/color/search/docker">
     <img align="center" alt="Js" height="50" width="50" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000">
