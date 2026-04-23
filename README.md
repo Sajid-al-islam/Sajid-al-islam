@@ -16,6 +16,7 @@ Welcome to my profile! I'm a Full-Stack Software engineer from Bangladesh. Thank
   <img src="https://img.icons8.com/color/48/api-settings.png"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/>
+  <img align="right" alt="code" width="250" height="250"  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhwejlxd293MWF0dWh3dzhlZXY2cTVubjdleXphdXBuMTluMDdmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif">
 </p>
 
  
