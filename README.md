@@ -3,8 +3,6 @@ Welcome to my profile! I'm a Full-Stack Software engineer from Bangladesh. Thank
 
 <div>
   <a href="https://github.com/Sajid-al-islam">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Md-shefat-masum&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-shefat-masum&layout=compact&langs_count=7&theme=dracula"/> -->
     <figure><embed src="https://wakatime.com/share/@8c212965-ff46-4a88-a097-7c8a1718035a/e499dd8c-9339-4209-9caa-90044529f1cf.svg"></embed></figure>
 </div>
 <div style="display: inline_block"><br>
@@ -33,4 +31,5 @@ Welcome to my profile! I'm a Full-Stack Software engineer from Bangladesh. Thank
 <br />
 ### Show some ❤️ by starring some of the repositories!
 
-![Snake animation](https://github.com/Sajid-al-islam/Sajid-al-islam/blob/output/github-contribution-grid-snake.svg)
+<!-- ## ![Snake animation](https://github.com/Sajid-al-islam/Sajid-al-islam/blob/output/github-contribution-grid-snake.svg)  -->
+![Snake animation](https://raw.githubusercontent.com/Sajid-al-islam/Sajid-al-islam/output/github-contribution-grid-snake-dark.svg)
