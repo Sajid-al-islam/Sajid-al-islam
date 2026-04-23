@@ -5,21 +5,19 @@ Welcome to my profile! I'm a Full-Stack Software engineer from Bangladesh. Thank
   <a href="https://github.com/Sajid-al-islam">
     <figure><embed src="https://wakatime.com/share/@8c212965-ff46-4a88-a097-7c8a1718035a/e499dd8c-9339-4209-9caa-90044529f1cf.svg"></embed></figure>
 </div>
-<div style="display: inline_block"><br>
-    <img align="center" alt="PHP" height="50" width="50"  src="https://img.icons8.com/?size=100&id=f0R4xVI4Sc8O&format=png&color=000000">
-    <img align="center" alt="Laravel" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg">
-    <img align="center" alt="MY SQL" height="50" width="50" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000">
-    <img align="center" alt="Docker" height="50" width="50" src="https://img.icons8.com/color/search/docker">
-    <img align="center" alt="Js" height="50" width="50" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000">
-    <img align="center" alt="Vue js" height="50" width="50"  src="https://img.icons8.com/color/search/vue-js">
-    <img align="center" alt="Rest API" height="50" width="50" src="https://nextbigtechnology.com/wp-content/uploads/2018/10/restapi.jpg">
-    <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="right" alt="code" width="200" height="200"  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhwejlxd293MWF0dWh3dzhlZXY2cTVubjdleXphdXBuMTluMDdmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif">
 
-</div>
-  
-  ##
+<p align="start">
+  <img alt="PHP" src="https://img.icons8.com/?size=100&id=f0R4xVI4Sc8O&format=png&color=000000" width="48">
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/docker.png"/>
+  <img src="https://img.icons8.com/color/48/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/vue-js.png"/>
+  <img src="https://img.icons8.com/color/48/api-settings.png"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/>
+</p>
+
  
 <div> 
   <a href="https://www.facebook.com/Sajid.Assassin/" target="_blank"><img src="https://img.shields.io/badge/-facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
